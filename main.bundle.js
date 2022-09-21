@@ -19250,7 +19250,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var bootstrap__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! bootstrap */ "./node_modules/bootstrap/dist/js/bootstrap.esm.js");
 /* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./style.css */ "./src/style.css");
 /* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_style_css__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _assets_img_rigo_baby_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./assets/img/rigo-baby.jpg */ "./src/assets/img/rigo-baby.jpg");
+/* harmony import */ var _assets_img_4geeks_ico__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./assets/img/4geeks.ico */ "./src/assets/img/4geeks.ico");
 /* eslint-disable */
+
+
 
 
 var pronoun = ["the", "our"];
@@ -19271,6 +19275,32 @@ window.onload = function () {
 
   console.log(domain);
 };
+
+/***/ }),
+
+/***/ "./src/assets/img/4geeks.ico":
+/*!***********************************!*\
+  !*** ./src/assets/img/4geeks.ico ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "4geeks.ico");
+
+/***/ }),
+
+/***/ "./src/assets/img/rigo-baby.jpg":
+/*!**************************************!*\
+  !*** ./src/assets/img/rigo-baby.jpg ***!
+  \**************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "rigo-baby.jpg");
 
 /***/ }),
 
